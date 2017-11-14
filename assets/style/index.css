@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Spectral+SC:300');
+
+.header {
+  border-radius: 0px;
+  height: 500px;
+  background: #02111b;
+}
+
+.header-image {
+  height: 200px;
+  width: 200px;
+  text-align: center;
+}
+
+.font-1 {
+  font-family: 'Spectral SC', serif;
+}
