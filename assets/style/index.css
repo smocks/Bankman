@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Spectral+SC:300');
+@import url('https://fonts.googleapis.com/css?family=Lato:300');
 
 .header {
   border-radius: 0px;
@@ -30,9 +31,26 @@
 
 .big-card {
   height: 400px;
+}
 
+.testimonials {
+  min-height: 500px;
+  background: #30292F;
+  border-radius: 0px;
+  margin: 0px;
+}
+
+.clients {
+  min-height: 300px;
+  background: #5D737E;
+  border-radius: 0px;
+  margin: 0px;
 }
 
 .font-1 {
-  font-family: 'Spectral SC', serif;
+  font-family: 'Spectral SC', sans-serif;
+}
+
+.font-2 {
+  font-family: 'Lato', sans-serif;
 }
