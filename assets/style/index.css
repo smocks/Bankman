@@ -4,12 +4,33 @@
   border-radius: 0px;
   height: 500px;
   background: #02111b;
+  margin: 0px;
 }
 
 .header-image {
   height: 200px;
   width: 200px;
   text-align: center;
+}
+
+.whyme {
+  min-height: 500px;
+  background: #3f4045;
+  border-radius: 0px;
+  margin: 0px;
+}
+
+.big-icon {
+  font-size: 95px !important;
+}
+
+.big-icon-text {
+  font-size: 50px !important;
+}
+
+.big-card {
+  height: 400px;
+
 }
 
 .font-1 {
