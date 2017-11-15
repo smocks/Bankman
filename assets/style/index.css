@@ -70,6 +70,13 @@
   width: 75px;
 }
 
+.contact {
+  min-height: 500px;
+  background: #7E6B8F;
+  border-radius: 0px;
+  margin: 0px;
+}
+
 .font-1 {
   font-family: 'Spectral SC', sans-serif;
 }
